@@ -18,11 +18,15 @@ nav{
 }
 figure figcaption {
   font-size: 12px;
+  margin-left: 35%;
 }
 #featured-property p {
   width: 800px;
   text-align: center;
   margin: auto;
+}
+#featured-property img {
+margin-left: 17.5%;
 }
 #details div{
   float: left;
